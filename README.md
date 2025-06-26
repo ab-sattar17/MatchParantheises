@@ -1,4 +1,6 @@
 # RecursiveArrayAddition
+A program to match the parentheises stored in a string using stack data structure.
+
 
 def is_parentheses_matched(expression):
     stack = []
